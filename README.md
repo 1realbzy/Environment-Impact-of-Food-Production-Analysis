@@ -3,6 +3,7 @@ This project analyzes food production’s impact on climate, water, and land use
 
 Environmental Impact of Food Production Analysis
 
+
 **Overview**
 
 Food production is a major contributor to environmental degradation, affecting climate change, water scarcity, land use, and biodiversity. This project aims to analyze the environmental impact of food production using data-driven insights to promote sustainable practices.
@@ -14,6 +15,7 @@ Assess the environmental impact of different food products and farming methods.
 Identify patterns in carbon emissions, water usage, and land use.
 
 Provide actionable recommendations for policymakers, food producers, and consumers.
+
 
 **Methodology**
 
@@ -31,6 +33,7 @@ Evaluation – Assess insights for practical applications.
 
 Deployment & Documentation – Present findings with clear recommendations.
 
+
 **Tools & Technologies**
 
 Programming: Python 
@@ -38,6 +41,7 @@ Programming: Python
 Data Visualization: Matplotlib, Seaborn
 
 Version Control: GitHub
+
 
 **Data Sources**
 
@@ -51,6 +55,7 @@ Land use
 
 Biodiversity loss
 
+
 **Deliverables**
 
 Exploratory Data Analysis (EDA): Insights through visualizations
@@ -58,10 +63,13 @@ Exploratory Data Analysis (EDA): Insights through visualizations
 Final Report: Summary of findings and recommendations
 
 Presentation: Key takeaways for stakeholders
+
+
 **
 Contributing**
 
 Contributions are welcome! Feel free to submit pull requests or open issues.
+
 
 **License**
 
