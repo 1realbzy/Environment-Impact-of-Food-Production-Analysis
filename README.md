@@ -48,6 +48,7 @@ This project follows the CRISP-DM framework:
 ## Data Sources
 
 The dataset contains information on food types, production methods, and their environmental impact, including:
+
 - Carbon emissions
 - Water usage
 - Land use
