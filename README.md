@@ -17,7 +17,7 @@ Food production is a major contributor to environmental degradation, affecting c
 ```
 Environment-Impact-of-Food-Production-Analysis/
 ├── data/                           # Dataset files
-├── notebooks/                      # Jupyter notebooks for analysis
+├── notebook/                      # Jupyter notebooks for analysis
 ├── results/                        # Analysis results and visualizations
 │   └── figures/                   # Generated plots and charts
 ├── src/                           # Source code
